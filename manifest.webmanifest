@@ -1,0 +1,9 @@
+{
+  "name": "THE-INTERNATIONAL",
+  "short_name": "THE-INTL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#173b70",
+  "description": "Your online school"
+}
